@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7020530266" alt="7020530266" /></a> </p>
 
-- 🌱 I’m CERTIFIED FULL STACK WEB DEVELOPER **CERTIFIED BY IIT MADRAS(GUVI)**
+- 🌱 I’m FULL STACK WEB DEVELOPER **CERTIFIED BY IIT MADRAS(GUVI)**
 
 - 👨‍💻 All of my projects are available at [https://storied-kulfi-ab030f.netlify.app/](https://storied-kulfi-ab030f.netlify.app/)
 
